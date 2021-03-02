@@ -38,7 +38,6 @@ if no_sub_list.empty? == false
 end
 
 
-#Right now I'm stuck trying to figure out how to run 7zip via the command line
 
 
 
